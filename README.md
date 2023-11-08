@@ -187,7 +187,8 @@ endmodule
 
 
 # T FLIPFLOP
-![EX4 42](https://github.com/Raja8334/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120719634/841dc555-77a2-422f-a678-fa2e1520ef35)
+![image](https://github.com/Raja8334/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120719634/27bbceb6-43a4-4d26-a145-c9e7ca06556e)
+
 
 # D FLIPFLOP
 ![EX4 41](https://github.com/Raja8334/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120719634/25f7e59e-32a4-43b4-ab30-b2333a85db4f)
